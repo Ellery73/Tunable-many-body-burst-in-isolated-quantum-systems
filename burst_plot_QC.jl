@@ -406,7 +406,7 @@ function main()
     trunc = 1e-7
     Jx, Jy, Jz, hx, hy, hz = 0.0, 0.0, 1.0, 0.9045/2, 0.0, 0.8090/2
     beta = 0.1
-    lambda = 144/L^2
+    lambda = 72.0/L^2
     observable = "Magz"
     parts = 30
     is = [20]
